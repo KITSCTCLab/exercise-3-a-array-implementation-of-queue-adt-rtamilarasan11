@@ -44,7 +44,7 @@ class Solution:
         if self.rear == -1 and self.front == -1:
             return True
         else:
-            return False
+            return Fals
 
     def is_stack_full(self):
         """
